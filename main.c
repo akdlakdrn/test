@@ -2,5 +2,6 @@
 
 int main()
 {
+	frintf("test")
 	return 0;
 }
